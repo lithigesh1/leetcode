@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lithigesh1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Math
 |  |
 | ------- |
