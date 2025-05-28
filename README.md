@@ -36,6 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lithigesh1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lithigesh1/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lithigesh1/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
