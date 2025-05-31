@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/lithigesh1/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/lithigesh1/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/lithigesh1/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/lithigesh1/leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
