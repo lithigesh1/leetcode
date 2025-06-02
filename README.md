@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lithigesh1/leetcode/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/lithigesh1/leetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/lithigesh1/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lithigesh1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/lithigesh1/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/lithigesh1/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lithigesh1/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/lithigesh1/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/lithigesh1/leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
