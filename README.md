@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/lithigesh1/leetcode/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0817-design-hashmap](https://github.com/lithigesh1/leetcode/tree/master/0817-design-hashmap) |
+| [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lithigesh1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/lithigesh1/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lithigesh1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lithigesh1/leetcode/tree/master/0041-first-missing-positive) |
 | [0817-design-hashmap](https://github.com/lithigesh1/leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
