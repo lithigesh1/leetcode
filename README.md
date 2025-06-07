@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/lithigesh1/leetcode/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/lithigesh1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0817-design-hashmap](https://github.com/lithigesh1/leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lithigesh1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lithigesh1/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lithigesh1/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/lithigesh1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0392-is-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
