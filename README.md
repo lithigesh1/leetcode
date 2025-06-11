@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/lithigesh1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/lithigesh1/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/lithigesh1/leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/lithigesh1/leetcode/tree/master/0817-design-hashmap) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/lithigesh1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/lithigesh1/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/lithigesh1/leetcode/tree/master/0392-is-subsequence) |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/lithigesh1/leetcode/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/lithigesh1/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/lithigesh1/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
@@ -107,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lithigesh1/leetcode/tree/master/0049-group-anagrams) |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
