@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/lithigesh1/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lithigesh1/leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lithigesh1/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/lithigesh1/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lithigesh1/leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/lithigesh1/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/lithigesh1/leetcode/tree/master/0260-single-number-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/lithigesh1/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/lithigesh1/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/lithigesh1/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/lithigesh1/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/lithigesh1/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/lithigesh1/leetcode/tree/master/0383-ransom-note) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/lithigesh1/leetcode/tree/master/0778-reorganize-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lithigesh1/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
