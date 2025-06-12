@@ -8,6 +8,8 @@ class Solution {
         int longest =  0;
         for(int num : nums){
             int currentLongest = 1;
+            if(numMap.get(num)) continue;
+            numMap.put(num, Boolean.TRUE);
 
             int nextNum = num+1;
             while(numMap.containsKey(nextNum) && numMap.get(nextNum)==false){
